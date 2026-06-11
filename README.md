@@ -103,9 +103,7 @@ java StudentGradeCalculator
 
 ## 🎥 Demo Video
 
-```markdown
-[▶️ Watch Demo](StudentGradeCalculator.mp4)
-```
+[▶️ Watch Demo Video](StudentGradeCalculator.mp4)
 
 ---
 
